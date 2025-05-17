@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  overflow-x: hidden;
+  background-color: #000;
+  color: #fff;
+}
+
+html{
+  overflow-x: hidden;
+}
+
+h1{
+  font-size: 25px;
+}
+p{
+  margin: 10px 0px;
+}
+
+
+/* AIzaSyBJJLPyFZ3L2amjINEM-iRF5R9ZfK1Uf0E */
